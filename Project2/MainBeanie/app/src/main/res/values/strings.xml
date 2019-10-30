@@ -1,0 +1,75 @@
+<resources>
+    <string name="aboutText">Globetrotter is designed to help you plan out trips while giving information about your favorite places. You\'ll be able to check the weather, use currency conversion, and much more.</string>
+    <string name="helpText">To go to a section of the app, simply press on the desired page you would like to visit by pressing on the respective tile.</string>
+    <string name="colosseum">Colosseum</string>
+    <string name="colosseumText">Located just east of the Roman Forum, the massive stone amphitheater known as the Colosseum was commissioned around A.D. 70–72 by Emperor Vespasian of the Flavian dynasty as a gift to the Roman people. In A.D. 80, Vespasian’s son Titus opened the Colosseum–officially known as the Flavian Amphitheater–with 100 days of games, including gladiatorial combats and wild animal fights. After four centuries of active use, the magnificent arena fell into neglect, and up until the 18th century it was used as a source of building materials. Though two-thirds of the original Colosseum has been destroyed over time, the amphitheater remains a popular tourist destination, as well as an iconic symbol of Rome and its long, tumultuous history.</string>
+    <string name="eiffelTower">Eiffel Tower</string>
+    <string name="eiffelText">When Gustave Eiffel’s company built Paris’ most recognizable monument for the 1889 World’s Fair, many regarded the massive iron structure with skepticism. Today, the Eiffel Tower, which continues to serve an important role in television and radio broadcasts, is considered an architectural wonder and attracts more visitors than any other paid tourist attraction in the world.</string>
+    <string name="pyramidOfGiza">Pyramid of Giza</string>
+    <string name="pyramidOfGizaText">Built during a time when Egypt was one of the richest and most powerful civilizations in the world, the pyramids—especially the Great Pyramids of Giza—are some of the most magnificent man-made structures in history. Their massive scale reflects the unique role that the pharaoh, or king, played in ancient Egyptian society. Though pyramids were built from the beginning of the Old Kingdom to the close of the Ptolemaic period in the fourth century A.D., the peak of pyramid building began with the late third dynasty and continued until roughly the sixth (c. 2325 B.C.). More than 4,000 years later, the Egyptian pyramids still retain much of their majesty, providing a glimpse into the country’s rich and glorious past.</string>
+    <string name="stonehenge">Stonehenge</string>
+    <string name="stonehengeText">For centuries, historians and archaeologists have puzzled over the many mysteries of Stonehenge, the prehistoric monument that took Neolithic builders an estimated 1,500 years to erect. Located in southern England, it is comprised of roughly 100 massive upright stones placed in a circular layout.</string>
+    <string name="tajMahal">Taj Mahal</string>
+    <string name="tajMahalText">The Taj Mahal is an enormous mausoleum complex commissioned in 1632 by the Mughal emperor Shah Jahan to house the remains of his beloved wife. Constructed over a 20-year period on the southern bank of the Yamuna River in Agra, India, the famed complex is one of the most outstanding examples of Mughal architecture, which combined Indian, Persian and Islamic influences. At its center is the Taj Mahal itself, built of shimmering white marble that seems to change color depending on the daylight. Designated a UNESCO World Heritage site in 1983, it remains one of the world’s most celebrated structures and a stunning symbol of India’s rich history.</string>
+    <string name="greatWallOfChina">Great Wall of China</string>
+    <string name="greatWallOfChinaText">The Great Wall of China is an ancient series of walls and fortifications, totaling more than 13,000 miles in length, located in northern China. Perhaps the most recognizable symbol of China and its long and vivid history, the Great Wall was originally conceived by Emperor Qin Shi Huang in the third century B.C. as a means of preventing incursions from barbarian nomads. The best-known and best-preserved section of the Great Wall was built in the 14th through 17th centuries A.D., during the Ming dynasty. Though the Great Wall never effectively prevented invaders from entering China, it came to function as a powerful symbol of Chinese civilization’s enduring strength.</string>
+    <string name="chichenItzaText">Chichen Itza was a Mayan city on the Yucatan Peninsula in Mexico. Although it’s an important tourist attraction, Chichen Itza also remains an active archeological site. New discoveries are still being unearthed in the area, providing even more insight into the culture and accomplishments of the Mayan people, who ruled much of present-day Mexico and Central America prior to the arrival of European colonists. Chichen Itza was named a UNESCO World Heritage Site in 1988 and, in 2007, it was voted in a global survey as one of the New Seven Wonders of the World.</string>
+    <string name="aboutWorldWonderText">On this page, you can hold down on a picture to view options you can perform. You can check information about each wonder or go to their respective Wikipedia link.</string>
+    <string name="helpWorldWonderText">You can go back to the main page by pressing the back key on your phone or by pressing the back arrow on the top-left of the screen.</string>
+    <string name="holdWorldWonder">Hold a picture for information</string>
+    <string name="itemlistpagehelp">On this page you can add items you wish to bring on your trip by pressing on the plus icon. To edit an item in the list, double tap the item. To remove an item from the list, hold the red X icon for the corresponding item.</string>
+    <string name="itemListAddItemFragmentCheckNum">Item must not contain numbers</string>
+    <string name="itemListAddItemFragmentCheckEmpty">Must fill both entries</string>
+    <string name="wondersOfTheWorld">Wonders of the World</string>
+    <string name="hint_quantity">Quantity</string>
+    <string name="itemEntryTemp">Temp</string>
+
+    <!--Activity Names-->
+    <string name="itemsList">Items List</string>
+    <string name="app_name">MainBeanie</string>
+
+    <!--Hints-->
+    <string name="hint_item">Item</string>
+
+    <!--Common strings-->
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="add">Add</string>
+    <string name="ok">OK</string>
+    <string name="options">Options</string>
+    <string name="viewInfo">View Info</string>
+    <string name="visitWikiPage">Visit Wiki Page</string>
+    <string name="globetrotter">Globetrotter</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="read">Read</string>
+
+    <string name="notificationTitle">Globetrotter</string>
+    <string name="notificationText">We haven\'t seen you in awhile. Check back to see what\'s new.</string>
+    <string name="chichenItza">Chichen Itza</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="changeLanguage">Change Language</string>
+    <string name="aboutThisPage">About This Page</string>
+    <string name="customItemsList">Custom Items List</string>
+    <string name="loading">Loading...</string>
+    <string name="changeLanguageToFrench">Change Language to French</string>
+    <string name="changeLanguageToEnglish">Change Language to English</string>
+    <string name="snackbarText">Confirm Delete?</string>
+    <string name="confirm">Confirm</string>
+    <string name="currenyExchange">Currency Exchange</string>
+    <string name="language">Language</string>
+    <string name="languageWithSemicolon">Language:</string>
+
+    <string name="amount">Amount</string>>
+    <string name="type">type</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="english">English</string>
+    <string name="french">French</string>
+    <string name="description">Your Personal\nTravel Assistant</string>
+    <string name="list">List</string>
+    <string name="staggeredList">Staggered List</string>
+    <string name="news">News</string>
+    <string name="topStories">Top Stories</string>
+
+</resources>

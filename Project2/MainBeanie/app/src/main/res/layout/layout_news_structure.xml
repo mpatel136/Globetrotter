@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="105dp"
+    android:id="@+id/card_view"
+    android:layout_marginBottom="20dp"
+    android:layout_marginEnd="5dp"
+    android:background="@color/cardview_dark_background"
+    card_view:cardCornerRadius="8dp"
+    card_view:cardElevation="2dp"
+    card_view:cardMaxElevation="4dp"
+    card_view:contentPadding="5dp"
+    card_view:cardBackgroundColor="@color/cardview_light_background">
+
+    <LinearLayout
+        android:id="@+id/newsLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="left"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingLeft="5dp">
+
+            <TextView
+                android:id="@+id/txtArticleTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="News Article"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <com.example.beanielibrary.views.SeperatorView
+                android:id="@+id/line"
+                android:layout_width="match_parent"
+                android:layout_height="1dp" />
+
+            <TextView
+                android:id="@+id/txtArticleDescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginTop="10dp"
+                android:text="Description of the article is given here."
+                android:textColor="@color/black"
+                android:textStyle="italic"/>
+
+            <TextView
+                android:id="@+id/txtURL"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="URL link will be here"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/black"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/itmWondersOfTheWorld"
+        android:title="@string/wondersOfTheWorld"
+        android:icon="@drawable/taj_mahal_icon"/>
+
+    <item android:id="@+id/itmItemsList"
+        android:title="@string/itemsList"
+        android:icon="@drawable/list_icon"/>
+
+    <item android:id="@+id/itmCurrencyExchange"
+        android:title="@string/currenyExchange"
+        android:icon="@drawable/currency_exchange_icon"/>
+
+    <item android:id="@+id/itmNews"
+        android:title="@string/news"
+        android:icon="@drawable/news_icon"/>
+</menu>

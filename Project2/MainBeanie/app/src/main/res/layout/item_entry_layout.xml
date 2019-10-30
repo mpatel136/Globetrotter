@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+     <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/entity"
+        android:layout_width="409dp"
+        android:layout_height="56dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        card_view:cardCornerRadius="8dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginHorizontal="3dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="65dp">
+
+            <TextView
+                android:id="@+id/txt_itemname"
+                android:layout_width="173dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="50dp"
+                android:layout_marginBottom="28dp"
+                android:text="@string/itemEntryTemp" />
+
+            <TextView
+                android:id="@+id/txt_quantity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="26dp"
+                android:layout_marginBottom="27dp"
+                android:layout_toEndOf="@+id/txt_itemname"
+                android:text="@string/itemEntryTemp" />
+
+            <ImageView
+                android:id="@+id/image_delete"
+                android:layout_width="32dp"
+                android:layout_height="35dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="368dp"
+                android:layout_marginTop="12dp"
+                android:background="@drawable/deleteicon" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+

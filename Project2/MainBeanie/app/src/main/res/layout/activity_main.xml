@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/drawer_layout"
+    tools:openDrawer="start"
+    android:background="@drawable/background">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:id="@+id/relativeLayout">
+
+            <ImageView
+                android:id="@+id/logo"
+                android:src="@drawable/globe_icon"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"/>
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="18dp"
+                android:layout_toRightOf="@id/logo"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:id="@+id/appName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/globetrotter" />
+
+            <TextView
+                android:textSize="20sp"
+                android:textColor="@color/black"
+                android:layout_below="@id/appName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/description"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="31dp"
+                android:layout_centerVertical="true"/>
+        </RelativeLayout>
+
+        <FrameLayout
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/frameLayout"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                tools:layout_editor_absoluteX="74dp"
+                tools:layout_editor_absoluteY="130dp">
+        </FrameLayout>
+
+        <android.support.design.widget.NavigationView
+                android:id="@+id/nav_view"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="start"
+                app:headerLayout="@layout/nav_header"
+                app:menu="@menu/main_drawer">
+        </android.support.design.widget.NavigationView>
+</android.support.v4.widget.DrawerLayout>

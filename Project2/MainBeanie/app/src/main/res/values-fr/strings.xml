@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MainBeanie</string>
+    <string name="aboutText">Globetrotter est conçu pour vous aider à planifier des voyages tout en donnant des informations sur vos lieux préférés. Vous pourrez vérifier la météo, utiliser la conversion de devise et bien plus encore.</string>
+    <string name="aboutWorldWonderText">Sur cette page, vous pouvez maintenir une photo pour afficher les options que vous pouvez effectuer. Vous pouvez vérifier les informations sur chaque merveille ou aller à leur lien Wikipedia respectif.</string>
+    <string name="add">Ajouter</string>
+    <string name="cancel">Annuler</string>
+    <string name="chichenItza">Chichen Itza</string>
+    <string name="chichenItzaText">Chichen Itza était une ville maya de la péninsule du Yucatan au Mexique. Bien qu’il s’agisse d’une attraction touristique importante, Chichen Itza reste également un site archéologique actif. De nouvelles découvertes sont toujours en cours de découverte dans la région, offrant ainsi un aperçu plus complet de la culture et des réalisations du peuple maya, qui a gouverné une grande partie du Mexique et de l\'Amérique centrale actuels avant l\'arrivée des colons européens. Chichen Itza a été nommée site du patrimoine mondial de l\'UNESCO en 1988 et, en 2007, elle a été élue l\'une des sept nouvelles merveilles du monde dans un sondage mondial.</string>
+    <string name="close">Fermer</string>
+    <string name="colosseum">Colisée</string>
+    <string name="colosseumText">Situé juste à l\'est du forum romain, le gigantesque amphithéâtre en pierre connu sous le nom de Colisée a été commandé vers l\'an 70–72 par l\'empereur Vespasian de la dynastie flavienne comme cadeau au peuple romain. En l\'an 80, Titus, le fils de Vespasian, inaugura le Colisée - officiellement connu sous le nom d\'amphithéâtre Flavian - avec 100 jours de jeux comprenant des combats de gladiateurs et des combats d\'animaux sauvages. Après quatre siècles d’utilisation active, la magnifique arène est tombée dans l’oubli et jusqu’au XVIIIe siècle, elle était utilisée comme source de matériaux de construction. Bien que les deux tiers du Colisée d\'origine aient été détruits au fil du temps, l\'amphithéâtre reste une destination touristique prisée, ainsi qu\'un symbole emblématique de Rome et de sa longue et tumultueuse histoire.</string>
+    <string name="eiffelText">Lorsque la société de Gustave Eiffel construisit le monument le plus reconnaissable de Paris pour l’exposition universelle de 1889, beaucoup considéraient l’immense structure de fer avec scepticisme. Aujourd\'hui, la Tour Eiffel, qui continue de jouer un rôle important dans les émissions de télévision et de radio, est considérée comme une merveille architecturale et attire plus de visiteurs que toute autre attraction touristique payante au monde.</string>
+    <string name="eiffelTower">Tour Eiffel</string>
+    <string name="globetrotter">Globetrotter</string>
+    <string name="greatWallOfChina">La Grande Muraille de Chine</string>
+    <string name="greatWallOfChinaText">La Grande Muraille de Chine est une ancienne série de murs et de fortifications, totalisant plus de 13 000 km de long, situés dans le nord de la Chine. Peut-être le symbole le plus reconnaissable de la Chine et de sa longue et vivante histoire, la Grande Muraille a été conçue à l\'origine par l\'empereur Qin Shi Huang au troisième siècle avant Jésus-Christ. comme moyen de prévenir les incursions de nomades barbares. La section la plus connue et la mieux préservée de la Grande Muraille a été construite entre le XIVe et le XVIIe siècle, sous la dynastie Ming. Bien que la Grande Muraille n’ait jamais empêché efficacement les envahisseurs d’entrer en Chine, elle est devenue un puissant symbole de la force durable de la civilisation chinoise.</string>
+    <string name="helpText">Pour accéder à une section de l\'application, appuyez simplement sur la page de votre choix en appuyant sur la vignette correspondante.</string>
+    <string name="helpWorldWonderText">Vous pouvez revenir à la page principale en appuyant sur la touche Retour de votre téléphone ou en appuyant sur la flèche Retour en haut à gauche de l\'écran.</string>
+    <string name="hint_item">Article</string>
+    <string name="hint_quantity">Quantité</string>
+    <string name="holdWorldWonder">Tenir une photo pour information</string>
+    <string name="itemEntryTemp">Temp</string>
+    <string name="itemListAddItemFragmentCheckEmpty">Doit remplir les deux entrées</string>
+    <string name="itemListAddItemFragmentCheckNum">L\'élément ne doit pas contenir de chiffres</string>
+    <string name="itemlistpagehelp">Sur cette page, vous pouvez ajouter les éléments que vous souhaitez apporter lors de votre voyage en appuyant sur l\'icône plus. Pour modifier un élément de la liste, tapez deux fois dessus. Pour supprimer un élément de la liste, maintenez l\'icône en forme de X rouge correspondant à l\'élément.</string>
+    <string name="itemsList">Liste d\'articles</string>
+    <string name="notificationText">Nous ne vous avons pas vu depuis un moment. Revenez pour voir ce qu\'il y a de neuf.</string>
+    <string name="notificationTitle">Globetrotter</string>
+    <string name="ok">OK</string>
+    <string name="open">Ouvrir</string>
+    <string name="options">Options</string>
+    <string name="pyramidOfGiza">Pyramide de Gizeh</string>
+    <string name="pyramidOfGizaText">Construites à une époque où l’Égypte était l’une des civilisations les plus riches et les plus puissantes du monde, les pyramides, en particulier les grandes pyramides de Gizeh, comptent parmi les plus magnifiques édifices construits par l’homme de l’histoire. Leur échelle massive reflète le rôle unique que le pharaon, ou roi, a joué dans la société égyptienne antique. Bien que les pyramides aient été construites du début de l\'Ancien Empire à la fin de la période ptolémaïque au quatrième siècle de l\'ère chrétienne, l\'apogée de la construction des pyramides a commencé à la fin de la troisième dynastie et s\'est poursuivie jusqu\'à environ la sixième (c. 2325 av. J.-C.). Plus de 4 000 ans plus tard, les pyramides égyptiennes conservent une grande partie de leur majesté, offrant un aperçu du passé riche et glorieux du pays.</string>
+    <string name="read">Lis</string>
+    <string name="stonehenge">Stonehenge</string>
+    <string name="stonehengeText">Les historiens et les archéologues s\'interrogent depuis des siècles sur les nombreux mystères de Stonehenge, monument préhistorique dont l\'édification par les constructeurs néolithiques a pris environ 1500 ans. Situé dans le sud de l\'Angleterre, il est composé d\'environ 100 énormes pierres verticales placées selon un tracé circulaire.</string>
+    <string name="submit">Soumettre</string>
+    <string name="tajMahal">Taj Mahal</string>
+    <string name="tajMahalText">Le Taj Mahal est un énorme complexe de mausolées créé en 1632 par l\'empereur moghol Shah Jahan pour abriter les restes de sa femme bien-aimée. Construit sur une période de 20 ans sur la rive sud de la rivière Yamuna à Agra, en Inde, ce complexe célèbre est l\'un des exemples les plus remarquables de l\'architecture moghole, alliant influences indienne, perse et islamique. En son centre se trouve le Taj Mahal lui-même, construit en marbre blanc scintillant qui semble changer de couleur en fonction de la lumière du jour. Classé au patrimoine mondial de l’UNESCO en 1983, il demeure l’une des structures les plus célèbres du monde et un symbole renversant de la riche histoire de l’Inde.</string>
+    <string name="viewInfo">Voir les infos</string>
+    <string name="visitWikiPage">Visitez la page Wiki</string>
+    <string name="wondersOfTheWorld">Merveilles du monde</string>
+    <string name="about">Information</string>
+    <string name="help">Aide</string>
+    <string name="changeLanguage">Changer de Langue</string>
+    <string name="aboutThisPage">À Propos de Cette Page</string>
+    <string name="customItemsList">Liste des articles personnalisés</string>
+    <string name="loading">Chargement...</string>
+    <string name="changeLanguageToFrench">Changer la langue en français</string>
+    <string name="changeLanguageToEnglish">Changer la langue en anglais</string>
+    <string name="snackbarText">Confirmer?</string>
+    <string name="confirm">Confirmer</string>
+    <string name="currenyExchange">Échange de devises</string>
+    <string name="language">Langue</string>
+    <string name="languageWithSemicolon">Langue:</string>
+
+    <string name="hello_blank_fragment">Bonjour! Je ne sais pas quoi dire.</string>
+    <string name="amount">Comptant</string>>
+    <string name="type">type</string>
+
+    <string name="english">Anglais</string>
+    <string name="french">Français</string>
+    <string name="description">Votre assistant de\nvoyage personnel</string>
+    <string name="list">Liste</string>
+    <string name="staggeredList">Liste Décalée</string>
+    <string name="news">Nouvelles</string>
+    <string name="topStories">Meilleurs histoires</string>
+
+</resources>

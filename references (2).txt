@@ -1,0 +1,12 @@
+Teacher's Examples
+https://stackoverflow.com/questions/8441326/adding-labels-text-to-android-gridview/8441379
+https://www.javacodegeeks.com/2013/08/android-custom-grid-view-example-with-image-and-text.html
+https://www.raywenderlich.com/995-android-gridview-tutorial
+https://www.youtube.com/watch?v=cp2rL3sAFmI&list=PLS1QulWo1RIaRdy16cOzBO5Jr6kEagA07
+https://proandroiddev.com/creating-and-publishing-an-android-library-402976b5d9d2
+https://www.tutlane.com/tutorial/android/android-options-menu-with-examples
+
+https://www.tutlane.com/tutorial/android/android-context-menu-with-examples
+
+
+https://google-developer-training.github.io/android-developer-advanced-course-practicals/unit-5-advanced-graphics-and-views/lesson-10-custom-views/10-1a-p-using-custom-views/10-1a-p-using-custom-views.html
