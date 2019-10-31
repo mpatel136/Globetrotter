@@ -129,7 +129,7 @@ public class Pictures extends AppCompatActivity implements AdapterView.OnItemCli
                 menu.setHeaderTitle(R.string.stonehenge);
                 break;
             //If the menu is for taj mahal
-            case R.drawable.taj_mahal2:
+            case R.drawable.taj_mahal:
                 //Set the title
                 menu.setHeaderTitle(R.string.tajMahal);
                 break;
@@ -203,7 +203,7 @@ public class Pictures extends AppCompatActivity implements AdapterView.OnItemCli
                 location = "https://en.wikipedia.org/wiki/Stonehenge";
                 break;
             //If the image is taj mahal
-            case R.drawable.taj_mahal2:
+            case R.drawable.taj_mahal:
                 //Set the location of the link
                 location = "https://en.wikipedia.org/wiki/Taj_Mahal";
                 break;
@@ -260,7 +260,7 @@ public class Pictures extends AppCompatActivity implements AdapterView.OnItemCli
                 stonehengeFragment.show(ft, "Stonehenge Fragment");
                 break;
             //If the image is taj mahal
-            case R.drawable.taj_mahal2:
+            case R.drawable.taj_mahal:
                 //Open the taj mahal fragment
                 DialogFragment tajMahalFragment = new TajMahalFragment();
                 tajMahalFragment.show(ft, "Taj Mahal Fragment");

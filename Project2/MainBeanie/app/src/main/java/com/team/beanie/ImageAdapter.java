@@ -98,7 +98,7 @@ public class ImageAdapter extends BaseAdapter
             R.drawable.eiffel_tower,
             R.drawable.pyramid_of_giza,
             R.drawable.stonehenge,
-            R.drawable.taj_mahal2,
+            R.drawable.taj_mahal,
             R.drawable.great_wall_of_china,
             R.drawable.chichen_itza
     };
